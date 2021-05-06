@@ -50,5 +50,12 @@ public class SampleClass {
 			}
 		}
 		System.out.println("Total Broken Link Count :"+brokenCount);
+		System.out.println("Total Broken Link Count :"+brokenCount);
+		System.out.println("Total Broken Link Count :"+brokenCount);
+		System.out.println("Total Broken Link Count :"+brokenCount);
+		System.out.println("Total Broken Link Count :"+brokenCount);
+		System.out.println("Total Broken Link Count :"+brokenCount);
+		System.out.println("Total Broken Link Count :"+brokenCount);
+		System.out.println("Total Broken Link Count :"+brokenCount);
 	}
 }
