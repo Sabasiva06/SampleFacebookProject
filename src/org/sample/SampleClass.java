@@ -57,5 +57,9 @@ public class SampleClass {
 		System.out.println("Total Broken Link Count :"+brokenCount);
 		System.out.println("Total Broken Link Count :"+brokenCount);
 		System.out.println("Total Broken Link Count :"+brokenCount);
+		driver.manage().window().maximize();
+		driver.get("https://www.facebook.com/");
+		List<WebElement> allLinks1 = driver.findElements(By.tagName("a"));
+
 	}
 }
